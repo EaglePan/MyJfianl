@@ -1,0 +1,10 @@
+com\demo\common\model\base\BaseBlog.class
+com\demo\common\model\Blog.class
+com\demo\index\IndexController.class
+com\demo\blog\BlogValidator.class
+com\demo\common\DemoConfig.class
+com\demo\common\model\_JFinalDemoGenerator.class
+com\demo\blog\BlogService.class
+com\demo\blog\BlogController.class
+com\demo\common\model\_MappingKit.class
+com\demo\blog\BlogInterceptor.class

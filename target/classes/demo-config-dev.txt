@@ -1,0 +1,5 @@
+# config
+jdbcUrl = jdbc:mysql://192.168.0.251:3309/choiceAirErp?zeroDateTimeBehavior=convertToNull&autoReconnect=true&characterEncoding=UTF-8
+user = root
+password = Choice321
+devMode = true
